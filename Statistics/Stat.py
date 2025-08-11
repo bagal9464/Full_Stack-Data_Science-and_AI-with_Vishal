@@ -1,4 +1,5 @@
 #discriptev stat
+# mesures of central tendenci
 dataset.mean()
 dataset['Salary'].mean()
 
